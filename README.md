@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in coding, art, medical science & fitness
+- 👀 Besides coding, I’m interested in art, fitness & medical science
 
 <!---
 - 🌱 I’m currently learning 
